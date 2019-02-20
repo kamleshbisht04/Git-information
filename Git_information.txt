@@ -1,0 +1,34 @@
+git :multiple people work on same project and changed or manage the source code.
+     Git is a free and open source distributed version control 
+     system designed to handle everything from small to very large 
+     projects with speed and efficiency.
+
+github:store the web repository file . it more valuable when the file corrupt in the system.
+       GitHub is a web-based hosting service for version control
+       using Git. It is mostly used for computer code. It offers all of
+       the distributed version control and source code management
+
+git status: Show the working tree status .the file is commit or not ,
+             we can say status checking of repository.
+
+git init:  Create an empty Git repository or reinitialize an existing one
+            to start the repository file.
+ 
+git add : link between github and the file which we want to uplode in github.
+
+git commit -m " A meaningful message: - Record changes to the repository and -m option for appropriate message
+git remote add orign : add a new remote, use the git remote add command on the terminal, in the directory your
+repository is stored at. it link local to github  at that time you are not uploding.
+git commit: make changes are final and mark as  checkpoint.
+
+git push -u orign master: uplode our project in github server .we can easily  put our  project on cloud and rollback change's.
+
+*
+github  is a web based  service which we can put our project and acess from anywhere
+Through github many devloper can work with same project easily.
+we Can write better code with in few line with more functionlity.
+
+*
+ git multiple people can can work and managed there source code 
+ devloper can see there code easily and see the changes 
+ we can understand it as git is account and hub is storage where we store our project .
